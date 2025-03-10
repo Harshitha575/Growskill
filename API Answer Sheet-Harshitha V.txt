@@ -1,0 +1,28 @@
+API Answer Sheet
+Harshitha V
+
+1.c
+2.d
+3.a
+4.d
+5.Options
+6.b
+7.d
+8.e
+9.API Endpoint
+10.b
+11.e
+12.Body
+13.a
+14.GET
+15.d
+16.a
+17.c
+18.b
+19.c
+20.c
+21.e
+22.b
+23.PATCH
+24.c
+25.a
